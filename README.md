@@ -16,3 +16,4 @@ In order to run the code you need to:</br>
 8. If you are willing to compare SRGAN and SRCNN face detection performance, you can uncomment bounding_box_comparison method.
 
 feel free to email me if you had any further questions.</br>
+![Sample super resolution of an identity vs grand truth](https://github.com/nikiibayat/FaceRecognition/blob/master/fonts/MTCNN.PNG?raw=true)
